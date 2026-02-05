@@ -1,0 +1,4 @@
+__pycache__/
+.env
+base_to.py
+Audio_clips_testing
